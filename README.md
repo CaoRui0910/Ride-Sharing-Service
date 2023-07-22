@@ -23,9 +23,9 @@ Ride Sharing Service is a Django app. This web-app will let users request, drive
    EMAIL_HOST_PASSWORD =   # Password/Token
    ```
 3. Run in the /HW1 using
-   ```bash
-   sudo docker-compose up
-   ```
+   - `sudo docker-compose up`
+   - If have trouble starting the server in docker: It's possibly related to the permission of starting script. You can use `chmod o+x runserver.sh` `chmod o+x initserver.sh` to change.
+
 ## Function
 
 User: 
@@ -46,13 +46,13 @@ User:
 7. joining ride after the searching (in 6.) —> user become sharer
    - multiple sharers who sign up to join one ride
 
-owner: 
+Owner: 
 1. edit/modify ride request up until it is confirmed (as long as the ride is open)
    - Ride Request Editing (Owner): A ride owner should be able to edit the specific requested atributes of the ride as long as the ride is not confirmed.
 2. view ride status until the ride is complete (non-complete rides)
    - Ride Status Viewing (Owner / Sharer): For open ride requests, this should show the current ride details (from the original request + any updates due to sharers joining the ride). For confirmed ride requests, the driver and vehicle details should also be shown.
 
-driver: 
+Driver: 
 1. accepts the ride after searching (in 3.) (request is confirmed) (A driver can claim and start a ride service, thus confirming it.)
    - An email should be sent to the owner and any sharers of a ride once it is confirmed by a driver
 2. close a ride (finishes the ride and marks it as complete)
@@ -67,7 +67,7 @@ driver:
    - show the information for the owner and each sharer of the ride, including the number of passengers in each party.
 5. A driver should be able to see a list of their confirmed rides
 
-sharer: 
+Sharer: 
 1. view the ride status, similarly to a ride owner
    - Ride Status Viewing (Owner / Sharer): For open ride requests, this should show the current ride details (from the original request + any updates due to sharers joining the ride). For confirmed ride requests, the driver and vehicle details should also be shown.
 2. edit their ride status as long as the ride is open.
