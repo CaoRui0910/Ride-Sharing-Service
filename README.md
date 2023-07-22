@@ -26,7 +26,7 @@ Ride Sharing Service is a Django app. This web-app will let users request, drive
    - `sudo docker-compose up`
    - If have trouble starting the server in docker: It's possibly related to the permission of starting script. You can use `chmod o+x runserver.sh` `chmod o+x initserver.sh` to change.
 
-## Function
+## Functions
 
 User: 
 1. Create Account
