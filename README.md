@@ -72,3 +72,47 @@ Sharer:
    - Ride Status Viewing (Owner / Sharer): For open ride requests, this should show the current ride details (from the original request + any updates due to sharers joining the ride). For confirmed ride requests, the driver and vehicle details should also be shown.
 2. edit their ride status as long as the ride is open.
    - The "edit status" would included the ability to change info like the number of sharer until the ride is confirmed.
+
+
+## Demo
+1. Register
+<img width="1436" alt="Screen Shot 2023-11-09 at 18 20 25" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/32526192-a7cb-44ce-ae94-ed5bc4b3029c">
+
+2. Login
+<img width="1437" alt="Screen Shot 2023-11-09 at 18 20 02" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/7d15e43e-c044-40d7-bbfd-34f9e6359a47">
+
+3. Home Page
+<img width="1440" alt="Screen Shot 2023-11-09 at 18 24 16" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/c0137de4-f382-4271-9521-37962a3cbc1e">
+<img width="1440" alt="Screen Shot 2023-11-09 at 18 35 13" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/e7cae85e-bb13-40bd-bf33-27a76078942f">
+
+4. Search
+<img width="1438" alt="Screen Shot 2023-11-09 at 18 25 16" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/5482a9eb-3952-439e-a8c0-811f044400d2">
+
+5. Register as a driver
+<img width="1439" alt="Screen Shot 2023-11-09 at 18 22 57" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/252e2e4b-8cba-4f48-90fe-6b046ba3f110">
+
+6. Driver Page
+<img width="1440" alt="Screen Shot 2023-11-09 at 18 35 20" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/935e8a10-3644-41bc-a450-0a65a348e78d">
+
+7. User Info
+<img width="1436" alt="Screen Shot 2023-11-09 at 18 22 41" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/7d54594a-f5f9-437e-b566-e1c5bd3221b8">
+<img width="1438" alt="Screen Shot 2023-11-09 at 18 33 39 2" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/597a04f3-53a9-43d5-8a50-735a78759b5d">
+
+8. Edit Personal & Vehicle Info
+<img width="1438" alt="Screen Shot 2023-11-09 at 18 36 03" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/dcda7f59-a773-4fd5-adfe-31718c02b7f6">
+
+9. Ride Detail
+<img width="1440" alt="Screen Shot 2023-11-09 at 18 24 26" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/9869e349-0715-47b7-8373-ff28e40a5a0b">
+
+10. New Request
+<img width="1439" alt="Screen Shot 2023-11-09 at 18 24 51" src="https://github.com/CaoRui0910/Ride-Sharing-Service/assets/93239143/4ba00534-d695-4601-a472-07f91dfd7aca">
+
+
+
+
+
+
+
+
+
+
