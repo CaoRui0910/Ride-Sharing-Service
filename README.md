@@ -2,12 +2,11 @@
 **Note: This was a project from a year ago, my first time developing a website with Django. The UI design was very rough and ugly. The backend code was somewhat disorganized. This project was only used to document my growth.**
 
 # Table of Contents
-- [Description](#Description)
-- [Deployment](#Deployment)
-- [Features](#Features)
-- [Demo](#Demo)
+1. [Description](#Description)
+2. [Deployment](#Deployment)
+3. [Features](#Features)
+4. [Demo](#Demo)
 
-- [toc]
 
 ## Description
 Ride Sharing Service is a Django app. This web-app will let users request, drive for, and join rides.
